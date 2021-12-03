@@ -1,4 +1,3 @@
-# Haim
 <h2 align="center">Welcome</h2>
 
 <p align="center">
