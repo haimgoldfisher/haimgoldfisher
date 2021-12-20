@@ -20,7 +20,8 @@
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/clion/" target="CLion"> <img src="https://coollogo.net/wp-content/uploads/2021/02/CLion-logo.svg" alt="CLion" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="40" height="40"/>  </a> 
-<a href="https://code.visualstudio.com/" title="Visual Studio"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio"  width="40" height="40"/>  </a>  
+<a href="https://code.visualstudio.com/" title="Visual Studio"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio"  width="40" height="40"/>  </a> 
+<a href="https://www.https://www.json.org/json-en.html" title="JSON"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://numpy.org/doc/stable/" target="Numpy"> <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="Numpy" width="40" height="40"/>  </a>
 <a href="https://pandas.pydata.org/docs/" target="Pandas"> <img src="https://user-images.githubusercontent.com/74299934/124384183-c15bd600-dcd8-11eb-8350-d1980f87b8c8.png" alt="Pandas" width="80" height="40"/>  </a>
 <a href="https://scikit-learn.org/stable/" target="Scikit learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit learn" width="70" height="35"/>  </a>
