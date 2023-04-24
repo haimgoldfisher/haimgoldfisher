@@ -15,10 +15,11 @@
 <p align="center">
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>  
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C" width="35" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://coollogo.net/wp-content/uploads/2021/02/CLion-logo.svg" alt="CLion" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="CLion" width="40" height="40"/></a>
 <a href="https://jupyter.org/" title="Jupyter Notebook"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="40" height="40"/>  </a> 
 <a href="https://code.visualstudio.com/" title="Visual Studio"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio"  width="40" height="40"/>  </a> 
 <a href="https://www.json.org/" title="JSON"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/></a>
